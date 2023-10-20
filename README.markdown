@@ -7,18 +7,6 @@
 </p>
 
 
-<p align='center'> 
-  <b><a href="#task"> Task Overview </a> </b>
-  | 
-  <b><a href="#installation"> Installation </a></b>
-  |
-  <b><a href="https://www.insidesherpa.com/modules/oRMogWRHeewqHzA7u/58dLdeDgbwf9Ste3j"> Link to Module 1 </a></b>
-  |
-  <b><a href="https://www.insidesherpa.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College%20Students%3A%20Learn%20how%20to%20work%20at%20a%20YC%20startup" target="_blank"> Link to Y Combinator Program </a></b>
-
-           
-</p>
-
 
 <h2 id="installation"> Installation </h2>
 
